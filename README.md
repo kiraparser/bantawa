@@ -1,0 +1,2 @@
+# bantawa
+Bantawa Language Data
