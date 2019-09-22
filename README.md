@@ -13,7 +13,7 @@ Dictionary [in JSON format](dictionary/json/BantawaGlossary.md).
 
 ## Copyright
 This data is copyrighted (c) by me (Marius Doornenbal) - I wish to be identified as the sole author of this work.
-That does not mean that you cannot redistribute - [please do so freely](LICENSE.txt) - and use as you see fit.
+That does not mean that you cannot redistribute - [please do so freely](LICENSE) - and use as you see fit.
 Just do not take credit for work that is not your own; also I'd like to hear from people using it - such that I
 know it's useful.
 If you are in science, just cite my dissertation:
